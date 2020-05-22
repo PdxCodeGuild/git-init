@@ -1,4 +1,5 @@
 # Rock Paper Scissors
+[Back to Syllabus](/README.md)
 
 Let's play rock-paper-scissors with the computer.
 
