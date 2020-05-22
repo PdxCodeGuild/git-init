@@ -1,6 +1,6 @@
 # Pushing to Github
 
-Helpful Links
+<a id="top"></a>Helpful Links
 - [Back to Syllabus](/README.md)
 - [Push to Github](#push)
 - [Pull Request](#pull)
@@ -26,6 +26,7 @@ git branch
 ```
 git push origin <branch-name>
 ```
+[Back to top](#top)
 
 ## <a id="pull"></a>Pull Request on Github
 
@@ -40,6 +41,8 @@ Make sure it's a clear summary. If you have any other notes, you can add it to t
 3. Save
 
 Save the pull request and for now you're done! From here, your teacher or team lead will review your code. If it is satisfactory, they will merge it to Master.
+
+[Back to top](#top)
 
 ## <a id="master"></a>Pull from Master
 
@@ -62,7 +65,10 @@ git status
 ```bash
 git pull
 ```
+[Back to top](#top)
 
 ## <a id="trouble"></a>Troubleshooting
 
 Under construction...
+
+[Back to top](#top)
