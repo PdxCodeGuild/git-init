@@ -1,5 +1,5 @@
 # Making a New Branch
-[Back to Syllabus](./README.md)
+[Back to Syllabus](/README.md)
 
 After cloning a repo, make a new branch **IMMEDIATELY**. You should never work off of the master version of the code. If you were working on a team, and you introduced a bug to the master branch, the whole application can shut down FOR EVERYONE. Don't be that developer!
 
