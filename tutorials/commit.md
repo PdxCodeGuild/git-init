@@ -1,4 +1,5 @@
 # Making a Commit
+[Back to Syllabus](/README.md)
 
 ## when, where, why
 As you make changes to your file(s), you will need to make commits to save your progress. Let's look at the pseudo code for the [Rock, Paper, Scissors](labs/lab01.md) lab:

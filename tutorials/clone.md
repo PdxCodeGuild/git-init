@@ -1,4 +1,5 @@
 # Cloning from Github
+[Back to Syllabus](/README.md)
 
 1. Navigate to to the main page of the <a href="https://github.com/PdxCodeGuild/git-init">Git Init Repo</a>.
 
