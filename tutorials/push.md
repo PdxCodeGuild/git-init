@@ -73,7 +73,7 @@ git pull
 
 Error:
 ```
-fatal: The current branch solaris has no upstream branch.
+fatal: The current branch master has no upstream branch.
 To push the current branch and set the remote as upstream, use
 
     git push --set-upstream origin master
