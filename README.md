@@ -16,4 +16,4 @@ Code along with Lisa as she solves the infamous [Rock, Paper, Scissors](/labs/rp
 | Unit | Concepts | Labs | Videos |
 | ---- | -------- | ---- | ------ |
 | [Unit 00](/units/unit-0.md) | Intro to Git | [Command Line Crash Course](https://learnrubythehardway.org/book/appendixa.html)  | [videos](https://www.youtube.com/playlist?list=PLCHnubFzFwjLDKwWQhH3BlGA9OasLKIFl) |
-| [Unit 01](/units/unit-0.md) | Git Workflow - Solo | <ul><li>[clone from Github](/tutorials/clone.md)</li><li>[creating a new branch]()</li><li>[commit your changes]()</li><li>[pushing your branch to Github]()</li></ul>  | coming soon |
+| [Unit 01](/units/unit-0.md) | Git Workflow - Solo | <ul><li>[clone from Github](/tutorials/clone.md)</li><li>[creating a new branch](tutorials/branch-new.md)</li><li>[commit your changes]()</li><li>[pushing your branch to Github]()</li></ul>  | coming soon |
