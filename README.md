@@ -11,7 +11,7 @@ Welcome to PDX Code Guild's Git 101 workshop. By the end of the workshop, you sh
 - and keeping your master branch up to date
 
 ## Getting Started
-Code along with Lisa as she solves the infamous [Rock, Paper, Scissors](/labs/rps.md) labs from Programming 101!
+Code along with Lisa as she solves the infamous [Rock, Paper, Scissors](/labs/rps.md) lab from Programming 101!
 
 | Unit | Concepts | Labs | Videos |
 | ---- | -------- | ---- | ------ |
