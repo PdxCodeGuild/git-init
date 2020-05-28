@@ -11,9 +11,9 @@ Welcome to PDX Code Guild's Git 101 workshop. By the end of the workshop, you sh
 - and keeping your master branch up to date
 
 ## Getting Started
-Code along with Lisa as she solves the infamous [Rock, Paper, Scissors](/labs/rps.md) lab from Programming 101!
 
-| Unit | Concepts | Labs | Videos |
+| Unit | Concepts | Resources | Videos |
 | ---- | -------- | ---- | ------ |
 | Unit 00 | Intro to Git | [Command Line Crash Course](https://learnrubythehardway.org/book/appendixa.html)  | [videos](https://www.youtube.com/playlist?list=PLCHnubFzFwjLDKwWQhH3BlGA9OasLKIFl) |
 | Unit 01 | Git Workflow - Solo | <ul><li>[clone from Github](tutorials/clone.md)</li><li>[creating a new branch](tutorials/branch-new.md)</li><li>[commit your changes](tutorials/commit.md)</li><li>[pushing your branch to Github](tutorials/push.md)</li><li>[creating a pull request](tutorials/pull-request.md)</li><li>[pull from Master](tutorials/pull-from-master.md)</li></ul>  | coming soon |
+| Unit 02 | quality commits | [Lab 01](labs/lab01.md) | coming soon |
