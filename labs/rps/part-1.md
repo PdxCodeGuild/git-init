@@ -189,8 +189,47 @@ WOW! All that work and we haven't even started coding yet. Pseudo code is a grea
 
 But before we do that, we're going to GIT COMMIT!
 
+## Making Your First Commit
+
 ![](https://media.giphy.com/media/gKICHVGdMT2hKbKnES/giphy.gif)
 
-Make sure your file is saved and switch back to the terminal.
+1. Make sure your file is saved and switch back to the terminal.
+2. In your terminal, run the command:
+
+```bash
+git status
+```
+
+Git will list files that are not being tracked:
+
+![](/resources/rps/commit-1.png)
+
+3. Let's add **rps.py** to the stage to be commited. Pretend the files are in line for a rollercoaster. The ride isn't leaving yet but the conductor is letting the files take their seats and is prepping the files for a safe ride.
+
+Run:
+```bash
+git add rps.py
+```
+
+My file is now staged for commit. See the message **Changes to be committed**?
+
+![git add](/resources/rps/commit-3.png)
+
+4. Finally, let's commit the file with a helpful message. Run:
+
+```bash
+git commit -m "file setup & pseudo"
+```
+Then run ```git status``` to check that the file was commited.
+
+```bash
+git status
+```
+
+![git commit](/resources/rps/commit-4.png)
+
+>nothing to commit, working tree clean
+
+We're good. On to Part 2!
 
 [Next: Part 2](part-2.md)
