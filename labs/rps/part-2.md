@@ -120,7 +120,7 @@ elif user_choice == "rock":
     if comp_choice == "paper":
         print("User wins!")
     else:
-        print("Player wins!")
+        print("Computer wins!")
 ```
 
 Check that your code works then commit.
@@ -146,7 +146,7 @@ elif user_choice == "paper":
     if comp_choice == "rock":
         print("User wins!")
     else:
-        print("Player wins!")
+        print("Computer wins!")
 ```
 
 Check that your code works then commit.
@@ -176,7 +176,7 @@ elif user_choice == "scissors":
     if comp_choice == "paper":
         print("User wins!")
     else:
-        print("Player wins!")
+        print("Computer wins!")
 ```
 
 Check that your code works then commit.
