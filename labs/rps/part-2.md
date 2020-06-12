@@ -86,6 +86,8 @@ git add rps.py
 git commit -m "capture comp input"
 ```
 
+## Capturing Ties
+
 Now let's write the logic to determine the winner and print the outcome. Under the print statement, let's capture ties first:
 
 ```python
@@ -109,7 +111,7 @@ git add rps.py
 git commit -m "catch all ties"
 ```
 
-Now let's write what happens when the user choose rock:
+## Checking Rock outcomes 
 
 ```python
 if user_choice == comp_choice:
@@ -121,20 +123,73 @@ elif user_choice == "rock":
         print("Player wins!")
 ```
 
-In your terminal:
+Check that your code works then commit.
+
 ```bash
 python3 rps.py
-```
-
-![](/resources/rps/code-6.png)
-
-![](/resources/git-commit.png)
-
-You know what to do:
-```bash
 git status
 git add rps.py
 git commit -m "logic for rock outcomes"
 ```
+Outcome:
+
+![](/resources/rps/code-6.png)
+
+## Checking Paper Outcomes
+
+Now let's write what happens when the user choose paper:
+
+```python
+# code for catching ties
+# code for checking when user is "rock"
+elif user_choice == "paper":
+    if comp_choice == "rock":
+        print("User wins!")
+    else:
+        print("Player wins!")
+```
+
+Check that your code works then commit.
+
+```bash
+python3 rps.py
+git status
+git add rps.py
+git commit -m "logic for paper outcomes"
+```
+Outcome:
+
+![](/resources/rps/code-7.png)
+
+
+[Back to Part 1](part-1.md)
+
+## Checking Scissors Outcomes
+
+Now let's write what happens when the user choose Scissors:
+
+```python
+# code for catching ties
+# code for checking when user is "rock"
+# code for checking when user is "paper"
+elif user_choice == "scissors":
+    if comp_choice == "paper":
+        print("User wins!")
+    else:
+        print("Player wins!")
+```
+
+Check that your code works then commit.
+
+```bash
+python3 rps.py
+git status
+git add rps.py
+git commit -m "logic for scissors outcomes"
+```
+Outcome:
+
+![](/resources/rps/code-8.png)
+
 
 [Back to Part 1](part-1.md)
