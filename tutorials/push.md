@@ -1,6 +1,5 @@
 # Pushing to Github
-
-- [Back to Syllabus](/README.md)
+[Back to Syllabus](/README.md)
 
 Now that you've completed your work and all your files are commited, let's push your branch up to Github.
 
