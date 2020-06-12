@@ -43,6 +43,8 @@ git add rps.py
 git commit -m "capture user input"
 ```
 
+## random.choice()
+
 Next, let's capture the computer's random choice:
 - remove the extra comments
 - import the random module so we can use random.choice()
