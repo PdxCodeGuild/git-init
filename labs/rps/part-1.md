@@ -230,6 +230,6 @@ git status
 
 >nothing to commit, working tree clean
 
-We're good. On to Part 2!
+We're good. Now on to Part 2!
 
 [Next: Part 2](part-2.md)
