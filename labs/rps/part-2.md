@@ -101,9 +101,12 @@ In your terminal:
 python3 rps.py
 ```
 
+Outcome:
+
 ![](/resources/rps/code-5.png)
 
 ![](/resources/git-commit.png)
+
 You know what to do:
 ```bash
 git status
@@ -111,7 +114,9 @@ git add rps.py
 git commit -m "catch all ties"
 ```
 
-## Checking Rock outcomes 
+Ok. that's the last time you'll see the huge orange **GIT COMMIT** banner in this lab :D
+
+## When the user chooses Rock
 
 ```python
 if user_choice == comp_choice:
@@ -135,7 +140,7 @@ Outcome:
 
 ![](/resources/rps/code-6.png)
 
-## Checking Paper Outcomes
+## When the User chooses Paper
 
 Now let's write what happens when the user choose paper:
 
@@ -162,9 +167,7 @@ Outcome:
 ![](/resources/rps/code-7.png)
 
 
-[Back to Part 1](part-1.md)
-
-## Checking Scissors Outcomes
+## Whe the User chooses Scissors
 
 Now let's write what happens when the user choose Scissors:
 
@@ -185,11 +188,12 @@ Check that your code works then commit.
 python3 rps.py
 git status
 git add rps.py
-git commit -m "logic for scissors outcomes"
+git commit -m "write logic for when user is scissors"
 ```
 Outcome:
 
 ![](/resources/rps/code-8.png)
 
+And we're done with the lab! You can add extras like a greeting or a farewell message. I'll leave that up to you. See a working demo of the code [here](https://repl.it/@pdxadmin/rpspy).
 
 [Back to Part 1](part-1.md)
