@@ -24,6 +24,6 @@ Welcome to PDX Code Guild's Git 101 workshop. By the end of the workshop, you sh
 ## Resources
 
 | Course | Note |
-| ---- | -------- | ---- | ------ |
+| ---- | -------- |
 | [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) by Udacity | free course |
 | [Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) by Bitbucket Cloud | docs
