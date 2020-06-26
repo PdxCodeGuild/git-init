@@ -198,4 +198,7 @@ Outcome:
 
 And we're done with the lab! You can add extras like a greeting or a farewell message. I'll leave that up to you. See a working demo of the code [here](https://repl.it/@pdxadmin/rpspy).
 
-[Back to Part 1](part-1.md)
+### Quick Links
+
+- [Back to Part 1](part-1.md)
+- [Back to Syllabus](/README.md)
